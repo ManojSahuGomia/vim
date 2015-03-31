@@ -1,7 +1,7 @@
 $ !
 $ !=====================================================================
 $ !
-$ !	VimTutor.com	version 29-Aug-2002
+$ !	VimTutor.com	version 29-Aug-2015
 $ !
 $ !	Author: Tom Wyant <Thomas.R.Wyant-III@usa.dupont.com>
 $ !
